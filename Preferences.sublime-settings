@@ -1,34 +1,11 @@
 {
-	"detect_indentation": false,
-	"draw_white_space": true,
-	"ensure_newline_at_eof_on_save": true,
-	"folder_exclude_patterns":
-	[
-		"tmp",
-		"log",
-		".git",
-		"_site",
-		".bundle",
-		".sass-cache",
-		"build"
-	],
-	"font_size": 15,
-	"highlight_modified_tabs": true,
-	"hot_exit": false,
+	"color_scheme": "Packages/Materialize/schemes/Material Cobalt.tmTheme",
+	"font_size": 22,
 	"ignored_packages":
 	[
+		"Git",
 		"Vintage"
 	],
-	"remember_open_files": false,
-	"rulers":
-	[
-		80
-	],
 	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
-	"trim_automatic_white_space": true,
-	"trim_trailing_white_space_on_save": true,
-	"update_check": false,
-	"use_tab_stops": true,
-	"wordWrap": false
+	"theme": "Material Brogrammer.sublime-theme"
 }
