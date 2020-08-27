@@ -48,8 +48,8 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = gabriel.ibanez@prium-solutions.com
-	name = Gabriel IBANEZ
+	email = g.ibanezw@gmail.com
+	name = Gabriel Ibanez
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
